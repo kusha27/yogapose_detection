@@ -1,14 +1,14 @@
-# Yoga Posture Detection
+# Yoga Posture Classification
 
 ## Project Title
 
-Yoga Posture Detection
+Yoga Posture Classification
 
 ---
 
 ## Abstract
 
-Yoga Pose Detection is a Machine Learning-based application that identifies yoga poses from uploaded images. The system uses MediaPipe Pose Estimation to extract human body landmarks and calculate joint angles. These angle features are then used by a Random Forest Machine Learning model to classify yoga poses.
+Yoga Pose Classification is a Machine Learning-based application that identifies yoga poses from uploaded images. The system uses MediaPipe Pose Estimation to extract human body landmarks and calculate joint angles. These angle features are then used by a Random Forest Machine Learning model to classify yoga poses.
 
 The application provides pose prediction, confidence score, pose description, pose benefits, and recommended next poses through a user-friendly web interface developed using Flask.
 
