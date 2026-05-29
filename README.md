@@ -299,7 +299,8 @@ http://127.0.0.1:5000
 
 ## Sample Output
 
-<img width="843" height="570" alt="Screenshot 2026-05-29 204519" src="https://github.com/user-attachments/assets/14a52c86-4a37-41ae-a415-934a0297f1a6" />
+<img width="1917" height="861" alt="Screenshot 2026-05-29 204320" src="https://github.com/user-attachments/assets/3dcefbb8-5aee-4d3c-892c-2f03a503d8ef" />
+
 
 <img width="1900" height="865" alt="Screenshot 2026-05-29 204646" src="https://github.com/user-attachments/assets/946fee7b-f7eb-4f0b-bd69-a91708be0ac1" />
 
