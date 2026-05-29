@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title>Yoga Pose Detection Result</title>
+<title>Yoga Posture Classification Result</title>
 
 <style>
 
@@ -79,7 +79,7 @@ a{
 
 <body>
 
-<h1>🧘 Yoga Pose Detection Result</h1>
+<h1>🧘 Yoga Posture Classification Result</h1>
 
 <div class="container">
 
@@ -94,7 +94,7 @@ filename=image_name) }}">
 
 <div class="card right">
 
-<h2>Detected Pose</h2>
+<h2>Classified Yoga Posture</h2>
 
 <div class="pose">
 {{ prediction }}
@@ -122,7 +122,7 @@ filename=image_name) }}">
 
 <div class="card">
 
-<h2>Description</h2>
+<h2>Posture Description</h2>
 
 <p>{{ description }}</p>
 
@@ -134,7 +134,7 @@ filename=image_name) }}">
 
 <div class="card">
 
-<h2>Benefits</h2>
+<h2>Posture Benefits</h2>
 
 <ul>
 {% for benefit in benefits %}
@@ -146,7 +146,7 @@ filename=image_name) }}">
 
 <div class="card">
 
-<h2>Recommended Next Poses</h2>
+<h2>Recommended Next Postures</h2>
 
 <ul>
 {% for pose in recommendations %}
