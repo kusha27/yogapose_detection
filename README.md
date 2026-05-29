@@ -299,10 +299,10 @@ http://127.0.0.1:5000
 
 ## Sample Output
 
-<img width="1917" height="861" alt="Screenshot 2026-05-29 204320" src="https://github.com/user-attachments/assets/3dcefbb8-5aee-4d3c-892c-2f03a503d8ef" />
+<img width="1916" height="873" alt="Screenshot 2026-05-29 214108" src="https://github.com/user-attachments/assets/b22465ca-856b-416a-a5b0-ce9accfec5ea" />
 
 
-<img width="1900" height="865" alt="Screenshot 2026-05-29 204646" src="https://github.com/user-attachments/assets/946fee7b-f7eb-4f0b-bd69-a91708be0ac1" />
+<img width="1895" height="862" alt="Screenshot 2026-05-29 214140" src="https://github.com/user-attachments/assets/0fd9d24c-7761-4d6d-a0d9-a09e27e8186a" />
 
 Detected Pose:
 Tree
