@@ -1,21 +1,104 @@
 <!DOCTYPE html>
+
 <html>
 <head>
-    <title>Yoga Pose Detection AI</title>
+<title>Yoga Pose Detection</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#0f172a;
+    color:white;
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.container{
+    width:700px;
+    background:#1e293b;
+    padding:40px;
+    border-radius:20px;
+    text-align:center;
+}
+
+h1{
+    margin-bottom:20px;
+}
+
+p{
+    color:#cbd5e1;
+    margin-bottom:30px;
+}
+
+.upload-box{
+    background:#334155;
+    padding:30px;
+    border-radius:15px;
+}
+
+input[type="file"]{
+    margin:20px;
+    color:white;
+}
+
+button{
+    background:#4f46e5;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    border-radius:10px;
+    cursor:pointer;
+    font-size:16px;
+}
+
+button:hover{
+    background:#4338ca;
+}
+
+</style>
+
 </head>
+
 <body>
 
-<h1>🧘 Yoga Pose Detection </h1>
+<div class="container">
 
-<form action="/predict" method="POST" enctype="multipart/form-data">
+<h1>🧘 Yoga Pose Detection</h1>
 
-    <input type="file" name="image" required>
+<p>
+Upload a yoga pose image to detect the pose.
+</p>
 
-    <button type="submit">
-        Detect Yoga Pose
-    </button>
+<div class="upload-box">
+
+<form action="/predict"
+      method="POST"
+      enctype="multipart/form-data">
+
+<input type="file"
+    name="image"
+    required>
+
+<br>
+
+<button type="submit">
+Detect Pose
+</button>
 
 </form>
+
+</div>
+
+</div>
 
 </body>
 </html>
