@@ -1,8 +1,8 @@
-# Yoga Pose Detection Using Machine Learning
+# Yoga Pose Detection
 
 ## Project Title
 
-Yoga Pose Detection Using Machine Learning and MediaPipe
+Yoga Pose Detection
 
 ---
 
