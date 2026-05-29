@@ -1,8 +1,8 @@
-# Yoga Pose Detection
+# Yoga Posture Detection
 
 ## Project Title
 
-Yoga Pose Detection
+Yoga Posture Detection
 
 ---
 
