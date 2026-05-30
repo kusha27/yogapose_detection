@@ -14,7 +14,7 @@ Yerriswamy T Sir
 
 ## Department
 
-Computer Science and Engineering
+Computer Science and Engineering - "A" section
 
 ## Project Title
 
