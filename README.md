@@ -1,16 +1,20 @@
 # Yoga Posture Classification
+## Team Members
 
-# Team Members
-# Name               # USN
-K Usha               KUB23CSE053
-Kaya M Arali         KUB23CSE064
-M Deepika            KUB23CSE068
+| S.No | Name | Roll Number |
+|-------|------|-------------|
+| 1 | K Usha | KUB23CSE053 |
+| 2 | Kavya M Arali | KUB23CSE064 |
+| 3 | M Deepika | KUB23CSE068 |
 
-# Project Guide
+
+## Project Guide
+
 Yerriswamy T Sir
 
-# Department
-Computer Science And Engineering
+## Department
+
+Computer Science and Engineering
 
 ## Project Title
 
