@@ -1,5 +1,17 @@
 # Yoga Posture Classification
 
+# Team Members
+# Name               # USN
+K Usha               KUB23CSE053
+Kaya M Arali         KUB23CSE064
+M Deepika            KUB23CSE068
+
+# Project Guide
+Yerriswamy T Sir
+
+# Department
+Computer Science And Engineering
+
 ## Project Title
 
 Yoga Posture Classification
